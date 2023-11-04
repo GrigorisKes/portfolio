@@ -8,13 +8,7 @@ I'm a front-end developer with a strong design sensibility. My focus is on creat
 
 ## Skills
 
-- ![My Skills](https://skillicons.dev/icons?i=html)
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- MySQL Databases
-- Figma (UI/UX Design and Prototyping)
-- Git and GitHub
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,r,matlab,octave,html,css,js,jquery,linux,figma,mysql,react&perline=4)](https://skillicons.dev)
 
 ## License
 
