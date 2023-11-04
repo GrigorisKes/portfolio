@@ -1,6 +1,6 @@
 # Grigoris Kesidis
 
-Web Developer | Portfolio
+I am a Front-End Developer based in Alexandroupoli, Greece.
 
 ## About Me
 
