@@ -8,9 +8,14 @@ I'm a front-end developer with a strong design sensibility. My focus is on creat
 
 ## Skills
 
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,r,matlab,octave,html,css,js,jquery,linux,figma,mysql,react&perline=4)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,r,html,css,js,jquery,linux,figma,mysql,react&perline=4)](https://skillicons.dev)
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,r,html,css,js,jquery,linux,figma,mysql,react" />
+  </a>
+</p>
