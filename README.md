@@ -8,7 +8,7 @@ I'm a front-end developer with a strong design sensibility. My focus is on creat
 
 ## Skills
 
-- [![My Skills](https://skillicons.dev/icons?i=html)]
+- ![My Skills](https://skillicons.dev/icons?i=html)
 - CSS3
 - JavaScript (ES6+)
 - React.js
